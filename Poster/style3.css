@@ -1,0 +1,35 @@
+h1 {
+	position: static;
+	font-family: 'Turret Road', cursive;
+	font-size: 300px;
+	font-weight:400px;
+	text-align: center;
+	text-shadow: 3px 2px red;
+}
+h2{
+	position: static;
+	font-family: 'Turret Road', cursive;
+	font-size: 180px;
+	font-weight:400px;
+	text-align: center;
+	background-color: lightblue;
+	text-shadow: 3px 2px lightgrey;
+	border-style: solid;
+
+}
+.background {
+	position: relative;
+	top: 00;
+	left: 00;
+	width: 100vw;
+	height: 100vh;
+	background-color: lightblue;
+	background-image: url("subway.png");
+	background-position: center;
+	}
+
+	@media (max-width: 375px) {
+		h1 {
+			font-size: 35px
+		}
+	}
