@@ -1,23 +1,22 @@
 h1 {
-     color: rgb(255,255,255);
-     text-align: center;
-     text-shadow: 2px 2px darkblue;
-     font-size: 65px;
-} 
+	font-family:'Satisfy', cursive;
+	font-size: 140px;
+	text-align: center;
+	color: rgb(255,255,255);
+	text-shadow: 4px 4px darkblue;
+}
+
 p {
-     font-family: 'Satisfy', cursive;
-     font-size: 25px;
-     text-align: center;
-     margin-top: 25px;
-} 
-.starsandmoon { 
-	position: absolute;
-	top: 0;
-	left: 0;
-
-
+	font-size: 65px;
+	text-align: center;
+	color:rgb(0,0,128);
+	text-shadow: none;
 }
 
 body {
+	font-size: 90px;
+	text-align: center;
+	color: rgb(255,255,255);
+	text-shadow: 3px 3px darkblue;
 	background-color: lightblue;
 }
