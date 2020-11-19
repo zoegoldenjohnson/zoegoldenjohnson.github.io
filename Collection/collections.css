@@ -1,22 +1,29 @@
 h1 {
 	font-family:'Satisfy', cursive;
-	font-size: 140px;
+	font-size: 250px;
 	text-align: center;
-	color: rgb(255,255,255);
-	text-shadow: 4px 4px darkblue;
+	color: rgb(0,0,128);
+	text-shadow: 4px 4px white;
 }
 
 p {
-	font-size: 65px;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 140px;
 	text-align: center;
 	color:rgb(0,0,128);
-	text-shadow: none;
+	text-shadow: white;
+}
+h2 {
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 200px;
+	text-align: center;
+	color: rgb(0,0,128);
+	text-shadow: 4px 4px white;
 }
 
 body {
 	font-size: 90px;
 	text-align: center;
 	color: rgb(255,255,255);
-	text-shadow: 3px 3px darkblue;
-	background-color: lightblue;
+	background-image: url(crystalsbackgrounds.jpg); 
 }

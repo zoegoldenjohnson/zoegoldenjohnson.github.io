@@ -1,0 +1,27 @@
+h1 {
+	font-family:'Satisfy', cursive;
+	font-size: 200px;
+	text-align: center;
+	color: rgb(255,255,255);
+	text-shadow: 4px 4px black;
+}
+
+h2 { 
+	font-family: 'Raleway', sans-serif;
+	position: center;
+	font-size: 150px;
+	color: white;
+	text-shadow: black;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	position: center;
+	font-size: 95px;
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+body {
+	background: rgb(255,176,119);
+}
